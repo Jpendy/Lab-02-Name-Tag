@@ -13,4 +13,9 @@ name.style.fontFamily = 'fantasy';
 const input = document.createElement('input');
 
 
+const myButton = document.getElementById('myButton');
 
+myButton.addEventListener('click', function(){
+    name.textContent = 'I am the Rockkk';
+    //console.log('change the name!');
+});
