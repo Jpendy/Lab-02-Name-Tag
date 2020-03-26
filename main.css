@@ -5,20 +5,12 @@
 
 ul {
     list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-li {
-    margin: 10px;
 }
 
 
 .hello {
-
     font-weight: bolder;
     font-size: 60px;
-
 }
 
 header {
